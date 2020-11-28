@@ -1,0 +1,79 @@
+/***** RESET *****/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	/*font-size: 100%;
+	vertical-align: baseline;*/
+	
+}
+html, body {height:100%;}
+body {line-height: 1;}
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after, q:before, q:after {content: '';content: none;}
+table {border-collapse: collapse;border-spacing: 0;} /* tables still need 'cellspacing="0"' in the markup */
+textarea {overflow:auto;}
+/***** RESET *****/
+
+body{background: url("bg.gif")}
+.hepsi{width: 82.1%; height: auto; margin: 20px auto}
+.logo{width: 235px; height: 95px; background: url("Logopit_1589555345983.jpg")}
+.menu{width: 821px; height: 42px; background: url("menu_bg.gif")}
+.orta{width: 801px; height: 730px; background: #e9e5e2; padding: 30px 0 0 20px}
+.orta table{margin: 20px auto; background: #8A8282; height: 400px; text-align: justify}
+.orta table tr td u{color: #FAF2FE;text-align: center; font: 20px bold italic}
+.alt{width: 821px; height: 50px; background: url("csstemplatesmarket.gif") no-repeat right}
+.menu ul li{float: left}
+.menu ul li a{display: block; width: 80px; height: 30px; font: bold 12px italic; color: #fff; text-decoration: none; text-align: center; padding: 12px 0 0 0}
+.menu ul li#home a{background: url("menu_bullet.gif") center bottom no-repeat;}
+.menu ul li a:hover{background: url("menu_bullet.gif") center bottom no-repeat;}
+.alt ul li{float: left}
+.alt a{display: block; padding: 3px 10px; font: 11px tahoma; color: #757266; text-decoration: none}
+.alt a:hover{ text-decoration: underline}
+@media all and (max-width: 500px){
+	/***** RESET *****/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	/*font-size: 100%;
+	vertical-align: baseline;*/
+	
+}
+html, body {height:100%;}
+body {line-height: 1;}
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after, q:before, q:after {content: '';content: none;}
+table {border-collapse: collapse;border-spacing: 0;} /* tables still need 'cellspacing="0"' in the markup */
+textarea {overflow:auto;}
+/***** RESET *****/
+
+body{background: url("bg.gif")}
+.hepsi{width: 82.1%; height: auto; margin: 20px auto}
+.logo{width: 235px; height: 95px; background: url("Logopit_1589555345983.jpg")}
+.menu{width: 821px; height: 42px; background: url("menu_bg.gif")}
+.orta{width: 801px; height: 730px; background: #e9e5e2; padding: 30px 0 0 20px}
+.orta table{margin: 20px auto; background: #8A8282; height: 400px; text-align: justify}
+.orta table tr td u{color: #FAF2FE;text-align: center; font: 20px bold italic}
+.alt{width: 821px; height: 50px; background: url("csstemplatesmarket.gif") no-repeat right}
+.menu ul li{float: left}
+.menu ul li a{display: block; width: 80px; height: 30px; font: bold 12px italic; color: #fff; text-decoration: none; text-align: center; padding: 12px 0 0 0}
+.menu ul li#home a{background: url("menu_bullet.gif") center bottom no-repeat;}
+.menu ul li a:hover{background: url("menu_bullet.gif") center bottom no-repeat;}
+.alt ul li{float: left}
+.alt a{display: block; padding: 3px 10px; font: 11px tahoma; color: #757266; text-decoration: none}
+.alt a:hover{ text-decoration: underline}
+
+}
+
+
+
+
